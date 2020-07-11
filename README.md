@@ -7,7 +7,7 @@ A budget-friendly touchless sanitizer which uses Arduino, Ultrasonic Sensor(HC-S
 
 ## Setup-
 Image Source- https://www.thepigeonexpress.com/kids-build-touchless-hand-sanitizer-amid-coronavirus-outbreak/
-<img src="https://github.com/adimehta03/Touchless-Sanitizer/blob/master/setup.jpg" />
+<img src="https://github.com/adimehta03/Touchless-Sanitizer/blob/master/setup.jpg" alt="setup" />
 
 Run and upload the code to your Arduino and you are ready to go
 
