@@ -2,12 +2,12 @@
 
 A budget-friendly touchless sanitizer which uses Arduino, Ultrasonic Sensor(HC-SR04) and a 9G Servo.
 
-<h2>Circuit Diagram</h2>
+<h1>Circuit Diagram</h1>
 ![alt circuit](https://github.com/adimehta03/Touchless-Sanitizer/blob/master/sanitizerbin.png)
 
-<h2>Setup-</h2>
+<h1>Setup-</h1>
 ![alt setup](https://github.com/adimehta03/Touchless-Sanitizer/blob/master/setup.jpg)
 
 Run and upload the code to your Arduino and you are ready to go
 
-<h3>Date Created-19 March 2020</h3>
+<h1>Date Created-19 March 2020</h1>
